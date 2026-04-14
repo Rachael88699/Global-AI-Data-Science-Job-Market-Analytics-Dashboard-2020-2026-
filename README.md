@@ -24,7 +24,7 @@ https://1drv.ms/x/c/f729756d9dbf5534/IQBTFE9UsYnOS6UZA6l-vfxoAbJBFmZgS5OaqYvjX9F
 ---
 
 ## 📊 Dashboard Preview
-![](Dashboard_Image.jpeg)
+![](dashboard_Image.jpeg)
 
 ---
 
